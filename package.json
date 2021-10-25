@@ -1,0 +1,23 @@
+{
+  "name": "gatsby-github-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "gatsby-github-demo",
+  "author": "Stephen Payne",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "gatsby": "^4.0.0",
+    "gatsby-plugin-gatsby-cloud": "^4.0.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
