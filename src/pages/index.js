@@ -3,7 +3,7 @@ import React from 'react'
 const Index = () => {
   return (
     <div>
-      Hello World
+      Testing gatsby cloud trigger build.
     </div>
   )
 }
