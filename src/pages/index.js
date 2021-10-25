@@ -2,8 +2,8 @@ import React from 'react'
 
 const Index = () => {
   return (
-    <div>
-      Testing gatsby cloud trigger build.
+    <div className={`min-h-screen bg-red-300`}>
+      Add Tailwind styling.
     </div>
   )
 }

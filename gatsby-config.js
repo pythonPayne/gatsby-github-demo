@@ -3,5 +3,8 @@ module.exports = {
     siteUrl: "https://www.yourdomain.tld",
     title: "gatsby-github-demo",
   },
-  plugins: ["gatsby-plugin-gatsby-cloud"],
+  plugins: [
+    "gatsby-plugin-gatsby-cloud",
+    'gatsby-plugin-postcss',
+  ],
 };
